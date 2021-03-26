@@ -1,0 +1,46 @@
+<LinearLayout
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="38dp"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="@string/lblcategoria2"
+        android:id="@+id/textView"
+        android:enabled="false"
+        android:focusable="false" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="42dp"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:id="@+id/textView2" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="@string/lblnombre2"
+        android:id="@+id/textView3" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="42dp"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:id="@+id/textView4" />
+
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="239dp"
+        android:id="@+id/imageView" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/btnsalvar"
+        android:id="@+id/button"
+        android:layout_gravity="center_horizontal" />
+</LinearLayout>

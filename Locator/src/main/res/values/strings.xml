@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Locator</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="string">Categoria:</string><string name="lblCategoria">lblCategoria</string><string name="lblnombre">lblnombre</string><string name="lblcategoria">lblcategoria</string><string name="btnsalvar">Salvar</string><string name="lblcategoria2">Categoria:</string><string name="lblnombre2">Nombre:</string>
+
+</resources>
